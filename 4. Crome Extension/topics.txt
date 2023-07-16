@@ -1,0 +1,8 @@
+1)const
+2)addEventListener()
+3)innerHtml
+4)function Parameter
+5)template strings
+6)localStorage
+7)the JASON object
+8)objects in arrays
